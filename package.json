@@ -1,0 +1,9 @@
+{
+  "name": "simon",
+  "version": "0.1.0",
+  "description": "Juego de memoria",
+  "main": "index.js",
+  "author": "Jose Enrique Marquez <jmrqz21@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/jomarquez21/simon.git"
+}
